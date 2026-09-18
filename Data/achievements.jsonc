@@ -1,0 +1,212 @@
+{
+    "translations": {
+        "106": {
+            "name": "A Passo Putrefatto",
+            "description": "Incontra il Vecchio."
+        },
+        "148": {
+            "name": "Metallo Sporco",
+            "description": "Ottieni la \"Lega Teleuccidente\"."
+        },
+        "205": {
+            "name": "Femme Fatale",
+            "description": "Osserva le Lampade di Inondazione."
+        },
+        "268": {
+            "name": "Non-Ti-Scordar-Di-Me",
+            "description": "Trova ed indossa il Capello della Noncuranza."
+        },
+        "294": {
+            "name": "FUORI PORTATA",
+            "description": "Ordina una bevanda alla Macchina del Caffè."
+        },
+        "372": {
+            "name": "Con la coda dell'occhio...",
+            "description": "Hai notato per un istante il Saltatore Periferico."
+        },
+        "409": {
+            "name": "Morte Cristallina",
+            "description": "Ti sei avvicinato al Cristallo Contagioso."
+        },
+        "427": {
+            "name": "Luce Vitale",
+            "description": "Hai trovato ed equipaggiato il \"Medaglione Lovecraftiano\"."
+        },
+        "458": {
+            "name": "Il giorno della Pizza!",
+            "description": "Prendi un pezzo della pizza infinita."
+        },
+        "500": {
+            "name": "Un assaggio di immortalità",
+            "description": "Hai ingoiato un campione di Panacea."
+        },
+        "513": {
+            "name": "Se la suoni, arriverà",
+            "description": "Suona il Campanaccio."
+        },
+        "714": {
+            "name": "Esaurimento Mentale",
+            "description": "Hai trovato ed indossato L'Anello di Giada."
+        },
+        "860": {
+            "name": "La foresta a due facce",
+            "description": "Ti sei avventurato sul sentiero di una piccola foresta."
+        },
+        "895": {
+            "name": "Interferenza",
+            "description": "Ti sei avvicinato alla Vecchia Bara."
+        },
+        "914": {
+            "name": "La raffineria",
+            "description": "Sei entrato nella camera della Macchina a Orologeria."
+        },
+        "939": {
+            "name": "Fatti Vedere!",
+            "description": "Hai trovato le Creature dalle Molte Voci."
+        },
+        "966": {
+            "name": "Un rapido movimento oculare",
+            "description": "Hai incontrato i Killer del Sonno."
+        },
+        "970": {
+            "name": "Fenomeno spaziale ricorrente",
+            "description": "Ti sei imbattuto in una stanza ricorrente."
+        },
+        "1025": {
+            "name": "\"Potenziale Arma Biochimica\"",
+            "description": "Leggi L’Enciclopedia delle Malattie Comuni."
+        },
+        "1048": {
+            "name": "L'Architetto",
+            "description": "Hai incontrato l'Orso Costruttore."
+        },
+        "1123": {
+            "name": "La Soluzione Finale",
+            "description": "Tocca il teschio delle atrocità."
+        },
+        "1499": {
+            "name": "Le urla del presente",
+            "description": "Hai indossato una maschera anti gas GP-5."
+        },
+        "005": {
+            "name": "Intruso",
+            "description": "Trova la Chiave Universale."
+        },
+        "008": {
+            "name": "Pericolo Biologico",
+            "description": "Entra nella camera della Piaga degli zombi."
+        },
+        "012": {
+            "name": "Lo spartito",
+            "description": "Trova un'orribile composizione."
+        },
+        "035": {
+            "name": "Cala il sipario",
+            "description": "Hai parlato con la maschera possessiva."
+        },
+        "049": {
+            "name": "Dottore, Dottore!",
+            "description": "Trova la cura."
+        },
+        "055": {
+            "name": "Anti-Meme",
+            "description": "Hai ricontenuto l'SCP-055."
+        },
+        "066": {
+            "name": "\"Eric?\"",
+            "description": "Hai interagito col giocattolo di Eric."
+        },
+        "079": {
+            "name": "Ragionamento Deduttivo",
+            "description": "Hai fatto un patto con la vecchia IA."
+        },
+        "096": {
+            "name": "Non guardarmi",
+            "description": "Hai evitato di guardare in faccia il Tipo Timido."
+        },
+        "420j": {
+            "name": "\"Rilassati, Amico.\"",
+            "description": "Fuma della roba buona."
+        },
+        "789j": {
+            "name": "\"dal ricercatore James, 11 anni\"",
+            "description": "Ti sei protetto le chiappe dal fantasma dei bagni."
+        },
+        "1162arc": {
+            "name": "Pezzi del passato",
+            "description": "Hai preso qualcosa dal buco nel muro."
+        },
+        "console": {
+            "name": "Gioco Pulito",
+            "description": "Non hai usufruito dei comandi della console."
+        },
+        "gears": {
+            "name": "L'ultima speranza",
+            "description": "Sei entrato nell'ufficio del Dottor Gear."
+        },
+        "harp": {
+            "name": "Scenario apocalittico",
+            "description": "Sei entrato nell'ufficio del Dottor Harp."
+        },
+        "keter": {
+            "name": "Sopravvivere all'incubo",
+            "description": "Completa il gioco alla difficoltà \"Keter\"."
+        },
+        "keycard6": {
+            "name": "Si o No?",
+            "description": "Hai ottenuto una Scheda Magnetica di livello 6."
+        },
+        "maynard": {
+            "name": "Violazione del contenimento",
+            "description": "Sei entrato nell'ufficio del Dottor Maynard."
+        },
+        "omni": {
+            "name": "Accesso Illimitato",
+            "description": "Hai ottenuto la Scheda Megnetica di livello Omni."
+        },
+        "o5": {
+            "name": "Controllo sulla Fondazione",
+            "description": "Sei entrato nell'ufficio del consiglio O5."
+        },
+        "pocketdimension": {
+            "name": "La terra di nessuno",
+            "description": "Sei fuggito dalla dimensione tascabile del Vecchio."
+        },
+        "snav": {
+            "name": "Acquisizione Tecnica",
+            "description": "Hai ottenuto il navigatore S-NAV Ultimate."
+        },
+        "tesla": {
+            "name": "Scioccante",
+            "description": "Hai attirato il vecchio all'interno di un Cancello Tesla."
+        },
+        "apollyon": {
+            "name": "Il grande sopravvissuto",
+            "description": "Completa il gioco alla difficoltà \"Apollyon\"."
+        },
+        "999": {
+            "name": "Vorrei abbracciarti ma non ho le mani.",
+            "description": "Gioca con il mostro del solletico."
+        },
+        "009": {
+            "name": "Incidente Ghiacciato",
+            "description": "Interagisci con il ghiaccio rosso."
+        },
+        "457": {
+            "description": "Hai incontrato l'Uomo in Fiamme.",
+            "name": "Inseguimento Rovente"
+        },
+        "frostbite": {
+            "description": "Hai attirato un nemico nel Ghiaccio Rosso.",
+            "name": "Congelamento"
+        },
+        "cmr": {
+            "name": "Controllo sulla Fondazione",
+            "description": "Sei entrato nella Sala Riunioni del Comando."
+        },
+        "2022": {
+            "name": "Supplemento Fotonico",
+            "description": "Hai ingerito un campione di Pillole Sunlight."
+        }
+    }
+}
